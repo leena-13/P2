@@ -1,0 +1,11 @@
+    body { 
+      text-align: center; 
+      background-color: #acffa6; 
+      font-family: Arial, sans-serif;
+      margin: 10%;
+    }
+
+    li { 
+      list-style-type: disc; 
+      padding: 10px; 
+    }
